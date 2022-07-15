@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m a Computer Engineering student
 - 🌱 I’m currently learning SWIFT & Python
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with everything about coding!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parksangau&layout=compact)](https://github.com/parksangau/github-readme-stats)
 
